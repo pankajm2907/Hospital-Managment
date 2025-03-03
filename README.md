@@ -41,3 +41,5 @@ An API Gateway is used to route requests from the client to the appropriate micr
 - REST APIs
 - API Gateway
 - MySQL (For database)
+
+####By Shubh Joshi(B067) and Pankaj Mirchandani(B070)
